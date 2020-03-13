@@ -1,0 +1,26 @@
+{
+  "name": "circles-online-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "server": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuriChupyrkin/circles-online-server.git"
+  },
+  "author": "Yury Chupyrkin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuriChupyrkin/circles-online-server/issues"
+  },
+  "homepage": "https://github.com/YuriChupyrkin/circles-online-server#readme",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "node-gameloop": "^0.1.4",
+    "node-stringify": "^0.2.1",
+    "socket.io": "^2.3.0",
+    "url": "^0.11.0"
+  }
+}
