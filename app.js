@@ -1,1 +1,3 @@
-console.log(1243243423);
+const runServer = require('./server/run-server');
+
+runServer();
